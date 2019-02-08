@@ -1,0 +1,29 @@
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.exe.config
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.exe
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.pdb
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Form1.resources
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Main.resources
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Properties.Resources.resources
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.exe
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.pdb
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.dll
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.pdb
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.xml
+C:\Users\sunny\source\repos\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.CopyComplete
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.exe.config
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.exe
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\ru_ssian roulette.pdb
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.dll
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.pdb
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\bin\Debug\nunit.framework.xml
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Form1.resources
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Main.resources
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian_roulette.Properties.Resources.resources
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.GenerateResource.cache
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.CoreCompileInputs.cache
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.csproj.CopyComplete
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.exe
+C:\Users\AJAYPAL\Desktop\ru_ssian roulette\ru_ssian roulette\obj\Debug\ru_ssian roulette.pdb
